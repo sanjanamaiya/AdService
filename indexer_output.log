@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-06-10T22:05:37</date>
+  <millis>1433999137563</millis>
+  <sequence>0</sequence>
+  <logger>com.ir.project.adservice.adindex.AdIndexerMain</logger>
+  <level>FINE</level>
+  <class>com.ir.project.adservice.adindex.AdIndexerMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Building index for Ads</message>
+</record>
+</log>

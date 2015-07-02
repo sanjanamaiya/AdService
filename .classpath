@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/downloads/info_retrieval/homework1/lucene-5.1.0/core/lucene-core-5.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/downloads/info_retrieval/homework1/lucene-5.1.0/queries/lucene-queries-5.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/downloads/info_retrieval/homework1/lucene-5.1.0/queryparser/lucene-queryparser-5.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/downloads/info_retrieval/homework1/lucene-5.1.0/analysis/common/lucene-analyzers-common-5.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/downloads_new/data/jackson-databind-2.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/downloads_new/data/jackson-core-2.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/downloads_new/data/jackson-annotations-2.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/downloads_new/data/RAKE-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/downloads_new/data/LBJ2Library.jar"/>
+	<classpathentry kind="lib" path="D:/downloads_new/data/LBJPOS.jar"/>
+	<classpathentry kind="lib" path="D:/downloads_new/data/LBJChunk.jar"/>
+	<classpathentry kind="lib" path="D:/downloads_new/data/slf4j-log4j12-1.7.12.jar"/>
+	<classpathentry kind="lib" path="D:/downloads_new/data/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="lib" path="D:/downloads_new/data/log4j-1.2.15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
